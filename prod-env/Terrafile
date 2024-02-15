@@ -1,4 +1,3 @@
-vpc:
-    source: "https://github.com/23-Pravallika/tf-backend-vpc.git"
+docdb:
+    source: "https://github.com/23-Pravallika/tf-mongodb.git"
     version: "main"
-
