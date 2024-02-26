@@ -10,3 +10,11 @@ redis:
 mysql:
     source: "https://github.com/23-Pravallika/tf-mysql.git"
     version: "main"
+
+rabbitmq:
+    source: "https://github.com/23-Pravallika/tf-rabbitmq.git"
+    version: "main"
+
+
+
+    

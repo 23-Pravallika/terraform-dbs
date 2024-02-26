@@ -20,3 +20,7 @@ variable "RDS_ENGINE_VERSION" {}
 variable "RDS_INSTANCE_CLASS" {}
 
 
+#RabbitMq
+variable "RABBITMQ_PORT" {}
+
+
